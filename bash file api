@@ -1,0 +1,5 @@
+mkdir json-validator-api
+cd json-validator-api
+npm init -y
+ 
+ 
